@@ -12,11 +12,3 @@ Our Kaggle writeup: https://www.kaggle.com/jrudoler56/optimal-run-path-for-kick-
 
 #### Ranking based on optimal decision making during returns
 ![](https://drive.google.com/uc?export=view&id=1_gVAdZ4l3wCvEdPqzApwELf2FIbM9lWV)
-
-![](https://drive.google.com/uc?export=view&id=1unLj2w3u-IeYeEKHygQakSNBxLyweMuC)
-
-#### Another perspective for returner evaluation
-
-![](https://drive.google.com/uc?export=view&id=1CKkXoh8kWIdFoK0ZWnX9Q3kzk_htEqrw)
-
-![](https://drive.google.com/uc?export=view&id=1FvPVxE2RuFD3aCNZL8mcABZ9z3JzcMV5)
